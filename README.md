@@ -32,5 +32,5 @@ Desenvolver uma versão _**pocket**_ do Spotify, integrada a [Web API](https://d
 
 ## Requisitos:
 
-- **[Node v13.8.0](https://nodejs.org/en/)** - ou superior, instalado em seu computador.
+- **[Node v13.8.0](https://nodejs.org/en/)**
 - **[Create React App](https://github.com/facebook/create-react-app)**
